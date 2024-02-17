@@ -8,6 +8,7 @@ intl: ^0.18.1
 flutter_bloc: ^8.1.3
 conditional_builder_null_safety: ^0.0.6
 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
